@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Room</string>
+    <string name="comp">Computer</string>
+    <string name="rock">Rock</string>
+    <string name="paper">Paper</string>
+    <string name="scissors">Scissors</string>
+    <string name="sc">Score: 0</string>
+    <string name="end">End game</string>
+    <string name="name">enter name here</string>
+    <string name="title">Remember the game rules!</string>
+    <string name="rules">Scissors cut paper\n Paper covers rock\n Rock crushes scissors</string>
+    <string name="msg">: %$d versus Android: %2$d</string>
+    <string name="loose">You loose!</string>
+    <string name="win">You win!</string>
+    <string name="tie">It is a tie!!</string>
+    <string name="start"> Start</string>
+</resources>
